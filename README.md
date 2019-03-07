@@ -2,7 +2,7 @@
 ## Vincent Galloro
 ### 100656374
 
-git clone https://github.com/VincentGalloro/CSCI_2020_Assignment_01/
+git clone https://github.com/VincentGalloro/CSCI_2020_Assignment_01.git
 
 **Question 1:**
 
